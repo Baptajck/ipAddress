@@ -39,7 +39,7 @@ Mobile screenshot
 ### Links
 
 - Solution URL: [ipAddress](https://github.com/Baptajck/ipAddress)
-- Live solution: [ipAddress_live](https://baptajck.github.io/ipaddress/)
+- Live solution: [ipAddress_live](https://baptajck.github.io/ipAddress/)
 
 ## My process
 
