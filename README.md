@@ -34,7 +34,7 @@ Desktop screenshot
 
 Mobile screenshot
 
-![mobile-screenshot](./src/assets/screenshots/ipAddress-mobile.png)
+<img src='./src/assets/screenshots/ipAddress-mobile.png' alt='mobile-screenshot' style='height: 400px' />
 
 ### Links
 
